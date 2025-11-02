@@ -19,7 +19,7 @@ This is a shopping app created using Vite and React. It allows users to browse p
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Swarup4545/Appscrip-task-swarup.git
+   git clone https://github.com/GThiruAishwarya/Appscrip-task-Gotte-Thiru-Aishwarya-Yadav
    cd my-project
    npm install
    npm run dev
